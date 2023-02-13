@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - email id:- rudra.abhishek3003@gmail.com
 - telegram :- https://t.me/rudrabhisheksinha
-- discord :- Rudra#4440
+- discord :- https://discord.com/users/839851703884185660
 
 <!---
 Rudra-Abhishek-Sinha/Rudra-Abhishek-Sinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
